@@ -39,3 +39,14 @@ Broadband subscriptions **grew steadily throughout the decade**, but saw a **sli
 - Identify **regional laws that seem to be hindering the mobile phone penetration and telecommunication services**.
 - Regional agencies and countries within Africa e.g. Burundi, can **reach out to private development agencies** for help in developing technological infrastructure.
 - Telcom companies should **expand their services to those countries with low subscriber counts** especially within Africa.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](Communications_Infrastructure.ipynb).
+
+```
+├── Images
+├── Data
+├── Communications Infrastructure Project.ipynb
+└── README.md
+```
